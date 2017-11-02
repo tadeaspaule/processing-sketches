@@ -1,2 +1,2 @@
 # processing-sketches
-Code of sketches I'd made and published on Google Play
+Code of live wallpapers for Android I'd made and published on Google Play
